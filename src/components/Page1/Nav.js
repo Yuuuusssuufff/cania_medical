@@ -7,7 +7,7 @@ import React from "react";
      <p>I am the main nav</p>)
    }
  const Nav = () => {
-   console.log("I am working 2")
+   
      return(<div>
     <TopNav/>
     <MainNav/>

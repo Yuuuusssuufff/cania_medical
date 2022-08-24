@@ -1,12 +1,12 @@
 import React from "react";
 import "./style.css";
-import Nav from './components/Nav'
+import Page1 from './components/Page1/Page1'
 
 export default function App() {
-  console.log("i am working1")
+  
   return (
     <div>
-      <Nav/>
+      <Page1/>
     </div>
   );
 }
