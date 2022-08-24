@@ -1,10 +1,11 @@
+import React from "react";
 
-const TopNav = ()=>{return(
-  <p> I am the top nav</p>
-)
-const MainNav = () => {
-  <p>I am the main nav</p>
-}
+   const TopNav = ()=>{return(
+     <p> I am the top nav</p>
+   )}
+   const MainNav = () => {return(
+     <p>I am the main nav</p>)
+   }
  const Nav = () => {
    console.log("I am working 2")
      return(<div>

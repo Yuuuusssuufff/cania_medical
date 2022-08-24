@@ -6,7 +6,7 @@ export default function App() {
   console.log("i am working1")
   return (
     <div>
-      
+      <Nav/>
     </div>
   );
 }
