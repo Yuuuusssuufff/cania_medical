@@ -1,11 +1,12 @@
 import React from "react";
 import "./style.css";
+import Nav from './components/Nav'
 
 export default function App() {
+  console.log("i am working1")
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      
     </div>
   );
 }
